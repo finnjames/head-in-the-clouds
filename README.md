@@ -1,5 +1,7 @@
 # Head in the Clouds ⛅️
 
+![](showcase.png)
+
 A warm VSCode theme for daydreamers. Based on [Daybreak](https://daybreaktheme.com/).
 
 ## Recommendations
