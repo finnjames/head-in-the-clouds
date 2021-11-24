@@ -6,7 +6,7 @@ function render() {
 }
 
 btn.addEventListener('click', () => {
-  // Count from 1 to 10.
+  // Count from 1 to 10. 
   if (count < 10) {
     count += 1
     render()

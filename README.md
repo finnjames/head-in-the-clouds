@@ -1,4 +1,6 @@
-# Head in the Clouds ⛅️
+![](header.png)
+
+# Head in the Clouds!
 
 ![](showcase.png)
 
