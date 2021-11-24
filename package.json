@@ -1,35 +1,28 @@
 {
-    "name": "head-in-the-clouds",
-    "displayName": "Head in the Clouds",
-    "description": "A warm color scheme for daydreamers",
-    "version": "0.0.1",
-    "type": "module",
-    "scripts": {
-        "dev": "pinecone watch",
-        "build": "pinecone",
-        "clean": "pinecone --clean-unused-themes"
-    },
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Head in the Clouds",
-                "uiTheme": "vs-dark",
-                "path": "./themes/head-in-the-clouds-gloom-color-theme.json"
-            },
-            {
-                "label": "Head in the Clouds (No Italics)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/head-in-the-clouds-gloom-no-italics-color-theme.json"
-            }
-        ]
-    },
-    "dependencies": {
-        "pinecone-cli": "^2.5.0"
-    }
+  "name": "head-in-the-clouds",
+  "displayName": "Head in the Clouds",
+  "description": "A warm color scheme for daydreamers",
+  "version": "0.0.1",
+  "type": "module",
+  "icon": "icon.png",
+  "scripts": {
+    "dev": "pinecone watch",
+    "build": "pinecone",
+    "clean": "pinecone --clean-unused-themes"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Head in the Clouds",
+        "uiTheme": "vs-dark",
+        "path": "./themes/head-in-the-clouds-color-theme.json"
+      }
+    ]
+  }
 }
