@@ -5,6 +5,11 @@
   "version": "0.0.1",
   "type": "module",
   "icon": "icon.png",
+  "publisher": "radiolevity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnsjames/head-in-the-clouds"
+  },
   "scripts": {
     "dev": "pinecone watch",
     "build": "pinecone",
